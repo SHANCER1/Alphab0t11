@@ -1,18 +1,18 @@
 {
-    "self_mode": false,
+    "self_mode": true,
 	"autobio": false,
-	"antihidetag": true,
+	"antihidetag": false,
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": false,
 	"prefix": ".",
-	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
+	"language":"eng",
+	"ownerNumber": "94725292890",
+	"ownerNumberr": "94725292890",
 	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownername": "ᴹᴿ᭄s̷h̷a̷n̷z̷ㄙ×፝֟͜×",
+	"botname":"SHANZ-BOT",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  SHANZ-BOT  」\nCreated By @Shanz"
 }
